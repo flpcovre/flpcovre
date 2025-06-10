@@ -39,12 +39,12 @@ Tenho 22 anos e sou apaixonado por desenvolvimento de software. Atualmente, tenh
 
 ### 👨‍💻 Linguagens
 <p>
-  <img src="https://skillicons.dev/icons?i=php,javascript,typescript,html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=php,javascript,typescript,html,css" />
 </p>
 
 ### ⚙️ Frameworks e Bibliotecas
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,nodejs,nuxtjs,vuejs" />
+  <img src="https://skillicons.dev/icons?i=laravel,nodejs,nuxtjs,vuejs,bootstrap,tailwind" />
 </p>
 
 ### 📱 Mobile
