@@ -10,11 +10,11 @@
 
 ---
 
-## 👋 Olá! Eu sou o Filipe
+## 👋 Olá!
 
-Sou um **desenvolvedor em formação**, atuando em uma Instituição de Ensino Superior no Brasil :brazil:, onde também estou cursando o 4º ano da minha graduação na área de Tecnologia da Informação.
+Sou um **desenvolvedor em formação**, atuando em uma Instituição de Ensino Superior no Brasil :brazil:, onde também estou cursando o 4º ano da minha graduação na área de Tecnologia da Informação :robot:.
 
-Tenho 22 anos e sou apaixonado por desenvolvimento de software. Atualmente, tenho experiência prática com **PHP** e **Laravel**, principalmente no desenvolvimento de APIs.
+Tenho 22 anos e sou estusiasmado por desenvolvimento de software :computer:. Atualmente, tenho experiência prática com **PHP** e **Laravel**, principalmente no desenvolvimento de APIs.
 
 ---
 
